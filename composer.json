@@ -1,5 +1,5 @@
 {
-    "name": "sloyakuza/laravel-joypixels-emojis",
+    "name": "sloyakuza/laravel-joypixel-emojis",
     "type": "library",
     "description": "Laravel helper for Joypixels emojis",
     "keywords": [
@@ -9,7 +9,7 @@
         "joypixels",
         "SLOYakuza"
     ],
-    "homepage": "https://github.com/SLOYakuza/laravel-joypixels-emojis",
+    "homepage": "https://github.com/SLOYakuza/laravel-joypixel-emojis",
     "license": "MIT",
     "authors": [
         {
